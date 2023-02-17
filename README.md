@@ -6,5 +6,7 @@
 </div>
 
 ##
+
 <div>
-  <a hrf:https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white></a>
+  <a href="https://open.spotify.com/user/6ata8zc1o1t9xey9oeq356xfa?si=JgLc3efOTH-h-A8PEj07-g" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+ </div>
