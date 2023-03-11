@@ -7,7 +7,7 @@
 
 ## Tecnologias que eu uso no meu dia a dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegbianchini)](https://github.com/henriquegbianchini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegbianchini&langs_count=8)](https://github.com/henriquegbianchini/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
