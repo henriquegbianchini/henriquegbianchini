@@ -5,7 +5,7 @@
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegbianchini&show_icons=true&theme_cobalt=radical)
 
-##
+## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br>
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
