@@ -15,7 +15,7 @@
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-##
+## Minhas Redes Socias
 
 <div>
   <a href"https://linktr.ee/portifoliodohenriquebianchini" target="_blank"></a><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
