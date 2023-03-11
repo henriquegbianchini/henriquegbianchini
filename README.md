@@ -3,7 +3,7 @@
  
 ##
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegbianchini&show_icons=true&theme_onedark=radical)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegbianchini&show_icons=true&theme_cobalt=radical)
 
 ##
 
