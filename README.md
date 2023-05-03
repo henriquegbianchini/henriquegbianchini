@@ -18,5 +18,5 @@
 ## Minhas Redes Socias
 
 <div>
-<a href="ail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="ail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV" target"_blanck"<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </div>
