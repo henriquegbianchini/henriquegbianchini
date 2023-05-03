@@ -17,6 +17,7 @@
 
 ## Minhas Redes Socias
 
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/ZtyzQu4.png">
-
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/AWfAoYP.png">
+<div style="display: inline_block"><br>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/ZtyzQu4.png"/>
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/AWfAoYP.png"/>
+</div>
