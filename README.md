@@ -1,6 +1,13 @@
 
-### Olá sou o Henrique Bianchini sejá Bem Vindo👋​
- 
+### Olá seja bem vindo ao meu perfil!👋
+
+##
+
+<br>Meu nome é Henrique sou estudante de Front End.<br>Segue meu currículo👇
+<div style="display: inline_block">
+ <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/AWfAoYP.png"/>
+</div>
+
 ##
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegbianchini&show_icons=true&theme_cobalt=radical)
@@ -15,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegbianchini&langs_count=8)](https://github.com/henriquegbianchini/github-readme-stats)
 
-## Minhas Redes Socias
+## Redes Socias
 
 <div style="display: inline_block"><br>
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/ZtyzQu4.png"/>
