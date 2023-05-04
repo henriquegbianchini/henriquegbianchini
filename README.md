@@ -5,7 +5,7 @@
 
 <br>Meu nome é Henrique sou estudante de Front End.<br>Segue meu currículo👇
 <div style="display: inline_block">
- <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/AWfAoYP.png"/>
+ <a href="https://www.linkedin.com/in/henrique-bianchini-2a9883273/"><img src="https://imgur.com/AWfAoYP.png"/>
 </div>
 
 ##
@@ -26,5 +26,5 @@
 
 <div style="display: inline_block"><br>
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/ZtyzQu4.png"/>
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfrswCZxPlpsKwCGHmvRFTZxCrphkrbMTHVxBsFZXlXsxtjBmxjvCVTVmWsRCkLlQzWzvV"><img src="https://imgur.com/AWfAoYP.png"/>
+<a href="https://www.linkedin.com/in/henrique-bianchini-2a9883273/"><img src="https://imgur.com/AWfAoYP.png"/>
 </div>
