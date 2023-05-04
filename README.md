@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegbianchini&layout=compact)](https://github.com/henriquegbianchini/github-readme-stats)
-
 ## Redes Socias
 
 <div style="display: inline_block"><br>
