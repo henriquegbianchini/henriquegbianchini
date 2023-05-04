@@ -10,7 +10,7 @@
 
 ##
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegbianchini&show_icons=true&theme_cobalt=radical)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegbianchini&show_icons=true&heme_cobalt=radical)
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegbianchini&langs_count=8)](https://github.com/henriquegbianchini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegbianchini&hide_progress=true)](https://github.com/henriquegbianchini/github-readme-stats)
 
 ## Redes Socias
 
