@@ -1,5 +1,5 @@
 # Hi, I'm henrique🧑‍💻
-<p align="center"><strong>I am passionate about learning new technologies.</strong><br>I'm a front-end student and I'm determined to excel at what I do!</p>
+<p><strong>I am passionate about learning new technologies.</strong><br>I'm a front-end student and I'm determined to excel at what I do!</p>
 
 ## My Skills
 
