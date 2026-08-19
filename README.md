@@ -1,38 +1,31 @@
-# Henrique Guerra Bianchini
+# Henrique Bianchini
 
-Estudante de Redes de Computadores e profissional em início de carreira
-na área de Tecnologia da Informação, com foco em suporte técnico,
-infraestrutura, automação e administração de ambientes Windows.
+**Suporte de TI • Infraestrutura • Redes • Automação**
 
-## Áreas de interesse
+Sou estudante de Redes de Computadores e atuo na área de Tecnologia da Informação, com foco em suporte técnico, infraestrutura e automação de ambientes.
 
-- Infraestrutura de TI
-- Suporte técnico
-- Windows
-- Linux
-- Redes
-- Automação
+Busco evoluir continuamente em administração de sistemas, redes, troubleshooting e criação de soluções que tornem processos de TI mais simples, padronizados e confiáveis.
 
-## Projetos em destaque
+## Tecnologias e áreas de interesse
 
-### Endpoint Provisioning Kit
-Toolkit modular em PowerShell para validação, auditoria e
-provisionamento de endpoints Windows.
-
-- Dry Run seguro
-- Inventário de hardware
-- Validação de Windows e TPM
-- Hostname padronizado
-- Workgroup / Active Directory
-- Relatórios TXT e HTML
-- Logs e evidências
-- Configuração por ambiente
+* Windows
+* Linux
+* PowerShell
+* Active Directory
+* Redes de Computadores
+* Suporte e troubleshooting
+* Automação de tarefas
+* Virtualização
+* Administração de sistemas
 
 ## Atualmente
 
-🎓 Estudando Redes de Computadores  
-💻 Desenvolvendo projetos voltados para infraestrutura e automação
+* 🎓 Estudando **Redes de Computadores**
+* 💻 Desenvolvendo experiência prática com **Suporte e Infraestrutura de TI**
+* ⚙️ Aprofundando conhecimentos em **PowerShell e automação**
+* 🖥️ Estudando ambientes **Windows e Linux**
 
 ## Contato
 
-LinkedIn: linkedin.com/in/henriquegbianchini
+[LinkedIn](https://www.linkedin.com/in/henriquegbianchini/)
+
